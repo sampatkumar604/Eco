@@ -71,7 +71,7 @@ input[type="checkbox"]{
     content: "\f00d";
   }
   nav .logo{
-    font-size:20px;
+    font-size:16px;
   }
   nav ul{
     position: fixed;
