@@ -70,6 +70,9 @@ input[type="checkbox"]{
   #click:checked ~ .menu-btn i:before{
     content: "\f00d";
   }
+  nav .logo{
+    font-size:20px;
+  }
   nav ul{
     position: fixed;
     top: 80px;
